@@ -31,12 +31,11 @@ It is a Automation tool for web application and mobile app
 4. tests/
  a. example.spec.ts
 
-1. tests-examples/
+5. tests-examples/
  a. demo-todo-app.spec.ts
-
-1. package.lock.json
-2. package.json
-3. playwright.config.js
+6. package.lock.json
+7. package.json
+8. playwright.config.js
 
 ## Resources to learn
 
@@ -206,7 +205,3 @@ await page.getByTitle.('value').click();
 ```javascript
  await page.locator ("css=//*[@attr='value']"). click();
 ```
-
-
-git config --global user.email "kundalikjadhav5545@gmail.com"
-  git config --global user.name "Kundalik Jadhav"
