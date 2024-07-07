@@ -53,6 +53,24 @@ It is a Automation tool for web application and mobile app
 
 [Demo Practice site](https://www.saucedemo.com/v1/inventory.html){: .btn}
 
+## Folde structure for Automation Project
+
+### C# folder structure
+
+```java
+|-- Base Class
+|-- Common Utility Class
+|-- POM Class
+|-- Reports
+|-- Screenshots
+|-- Test Data
+|-- Tests
+|-- App.config
+|-- using.cs
+```
+
+### Playwright folder structure 01
+
 ```java
 |-- .github
 |     |-- workflows
@@ -77,6 +95,8 @@ It is a Automation tool for web application and mobile app
 |-- package.json
 |-- playwright.config.js
 ```
+
+### Playwright folder structure 02
 
 ```javascript
 |-- data
