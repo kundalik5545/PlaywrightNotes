@@ -37,25 +37,25 @@ It is a Automation tool for web application and mobile app
 
 ## Resources to learn
 
-[Medium Article on TDD + Playwright](https://medium.com/@oroz.askarov/building-a-robust-automation-framework-in-playwright-typescript-version-b13be4e4bf56){: .btn}
+[Medium Article on TDD + Playwright](https://medium.com/@oroz.askarov/building-a-robust-automation-framework-in-playwright-typescript-version-b13be4e4bf56)
 
-[PlayList 01](https://www.youtube.com/watch?v=IB2P1FBXjcQ&list=PLhW3qG5bs-L9sJKoT1LC5grGT77sfW0Z8&index=2){: .btn }
+[PlayList 01](https://www.youtube.com/watch?v=IB2P1FBXjcQ&list=PLhW3qG5bs-L9sJKoT1LC5grGT77sfW0Z8&index=2)
 
-[Playlist 02](https://www.youtube.com/@rajatt95/playlists){: .btn}
+[Playlist 02](https://www.youtube.com/@rajatt95/playlists)
 
-[Playlist 03](https://www.youtube.com/playlist?list=PLFGoYjJG_fqrjcgRUcc2ubbZGtbRcC6W8){: .btn}
+[Playlist 03](https://www.youtube.com/playlist?list=PLFGoYjJG_fqrjcgRUcc2ubbZGtbRcC6W8)
 
-[PlayList 04](https://www.youtube.com/playlist?list=PL6flErFppaj0iQG2_Dd72Jz0bfrzZwMZH){: .btn}
+[PlayList 04](https://www.youtube.com/playlist?list=PL6flErFppaj0iQG2_Dd72Jz0bfrzZwMZH)
 
-[Global file setup and cookies use](https://www.youtube.com/watch?v=Gzlhmg-x1_0){: .btn}
+[Global file setup and cookies use](https://www.youtube.com/watch?v=Gzlhmg-x1_0)
 
-[Github Framework Repo 01](https://github.com/JayKishoreDuvvuri/Playwright-JavaScript-SauceDemo){: .btn}
+[Github Framework Repo 01](https://github.com/JayKishoreDuvvuri/Playwright-JavaScript-SauceDemo)
 
-[Github Framework Repo 02](https://github.com/rajatt95/TestAutomationFramework_YT_Rajat_Web_Playwright_JS?tab=readme-ov-file){: .btn}
+[Github Framework Repo 02](https://github.com/rajatt95/TestAutomationFramework_YT_Rajat_Web_Playwright_JS?tab=readme-ov-file)
 
-[LinkedIn Playwright folder structure](https://www.linkedin.com/pulse/building-playwright-javascript-framework-page-object-model-appmetry){: .btn}
+[LinkedIn Playwright folder structure](https://www.linkedin.com/pulse/building-playwright-javascript-framework-page-object-model-appmetry)
 
-[Demo Practice site](https://www.saucedemo.com/v1/inventory.html){: .btn}
+[Demo Practice site](https://www.saucedemo.com/v1/inventory.html)
 
 ## Folde structure for Automation Project
 
